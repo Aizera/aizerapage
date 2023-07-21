@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = 'Aizera'
+copyright = "©2023 Aizera"
+
+[params]
+  dateFormat = "January 2, 2006"
+
+
+[author]
+  name = "Aizera"
+  image = "img/kate_author2.png"
+  headline = "ADHD brain is loading."
+  bio = "putting down tracks as the train is going"
+  links = [
+  { link = "https://aizera.art" },
+  { instagram = "https://instagram.com/aizera.art"},
+  { mastodon = "https://mastodon.art/@aizera" },
+  { steam = "https://steamcommunity.com/id/aizera"},
+  ]
