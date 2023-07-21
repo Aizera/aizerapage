@@ -1,3 +1,5 @@
 baseURL = 'https://aizera.page/'
 languageCode = 'en-us'
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
