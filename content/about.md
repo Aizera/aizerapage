@@ -1,10 +1,9 @@
 ---
 title: "About"
-
 showDate: false
 showAuthor: true
-showSummary: true
-footer.showScrollToTop: true
+showSummary: false
+showScrollToTop: true
 
 ---
 
@@ -15,17 +14,28 @@ footer.showScrollToTop: true
 _(source: League of Legends custom avatar maker)_
 ## Hello there!
 
-I'm Kate, your resident ADHD artist. My blog was initially created to share cool stuff with my friends, and has now evolved to include posts and guides for communities I like.
+I'm Kate, your resident ADHD artist. I've left social media for the most part, but it's kind of nice to have a place to put down my thoughts without worrying about not having ownership of my content.
+
+If you would like some art from me, [message me on ko-fi](https://ko-fi.com/aizera) for commissions (and be sure to read the [ToS](https://aizera.art/#commissions) on my website!!)
 
 I hope you enjoy reading through my progress on digital painting, reading, gaming and guides. If you like my work, definitely let me know! 
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0f8d96', 'L3L3226RT');kofiwidget2.draw();</script> 
+
 ## FAQ
 
-**What have you been up to nowadays?**
+#### What have you been up to nowadays?
 
 I rotate on and off on the same games as usual: League, Maplestory, Lost Ark and Osu. I am also playing this mobile game named "Call of Antia". It's been pretty fun.
 
-**What's your favorite game?**
+#### Still do ringfit?
+Yep :3
+
+#### Still learning Korean?
+네, 요즘 저는 천천히 배우고 있어요~
+*(yes, I'm learning slowly nowadays~)*
+
+#### What are your favorite games?
 
 {{< figure src="https://aizera.page/uploads/nierbanner.jpg" >}}
 
@@ -33,7 +43,8 @@ Honestly, I've been thinking about this long and hard about this one.I have a fe
 
 * Nier:Automata
 * Getting Over It with Bennett Foddy
-* Ori and the Blind Forest
+* Ori and the Blind Forest + Ori and the Will of the Wisps
+* Wizard of Legend
 * Star Renegades
 * Hollow Knight
 * Overcooked! 2
