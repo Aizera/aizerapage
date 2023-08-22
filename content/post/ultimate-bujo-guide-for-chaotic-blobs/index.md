@@ -1,10 +1,11 @@
-+++
-date = 2022-12-29T23:58:23Z
-tags = ["bullet journal"]
-title = "Ultimate Bujo Guide for Chaotic Blobs"
-summary = "adhders can journal too!"
+---
+date: 2022-12-29T23:58:23Z
+tags: ["bullet journal", "adhd"]
+title: "ADHD Bujo Guide: The Ultimate Strategy for Chaotic Blobs"
+slug: adhd-bullet-journal
+summary: "adhders can journal too! a guide on how to optimize your journal while struggling with adhd"
 
-+++
+---
 {{< figure src="/uploads/pexels-content-pixie-2736499.jpg" >}}
 
 <sub><sup>(photo credit: stock image by Content Pixie on pexels.com)</sup></sub>
