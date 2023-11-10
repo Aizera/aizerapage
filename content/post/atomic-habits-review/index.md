@@ -8,6 +8,8 @@ tags: ["books"]
 showTableOfContents: true 
 ---
 
+{{< load-photoswipe >}}
+
 ### So.. it's been like two years.
 
 I started reading Atomic Habits some time in 2021, but I never really remembered when I ended up finishing it the first time around. I was chasing that self-help high, just being proud of getting some reading done. By today I've read the book for the 4th time, so I reckon it's time to note down what helped me the most.
