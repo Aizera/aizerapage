@@ -99,6 +99,7 @@ figure.no-border .snap-wrapper {
   width: 100%;
 }
 
+/*
 .snap-gallery figure img.snap-thumb:hover {
   transform: scale(1.02);
   -webkit-transition: all 0.3s ease-in-out;
@@ -106,6 +107,7 @@ figure.no-border .snap-wrapper {
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+*/
 
 @media screen and (max-width: 767px) {
   .snap-gallery figure {
@@ -213,10 +215,11 @@ a.snap-lightbox-close {
   height: 100%;
 }
 
-.snap-lightbox-close-button:hover .snap-lightbox-x::after {
+/* .snap-lightbox-close-button:hover .snap-lightbox-x::after {
   color: #fff;
   transition: all 0.25s ease;
 }
+*/
 
 .snap-lightbox-prev, .snap-lightbox-next  {
   position: fixed;
@@ -262,11 +265,13 @@ span .snap-lightbox-arrow {
   -webkit-transform: rotate(-45deg);
 }
 
+/*
 a.snap-lightbox-prev:hover > .snap-lightbox-arrow,
 a.snap-lightbox-next:hover > .snap-lightbox-arrow {
   border-color: #fff;
   transition: all 0.25s ease;
 }
+*/
 
 @media screen and (max-width: 767px) {
   .snap-lightbox-inner {
