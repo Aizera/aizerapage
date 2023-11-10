@@ -1,5 +1,7 @@
 baseURL = 'https://aizera.page/'
 languageCode = 'en-us'
 
+theme = ["hugo-easy-gallery"]
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
