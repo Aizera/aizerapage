@@ -1,17 +1,4 @@
-@tailwind base;
-@tailwind components; 
-@tailwind utilities;
-
-@layer base{
-  html {
-    /* https://css-tricks.com/custom-tailwind-css/ His recommendations */
-    -webkit-tap-highlight-color: transparent;
-    input, textarea, button, select, a {
-      /* https://css-tricks.com/snippets/css/remove-gray-highlight-when-tapping-links-in-mobile-safari/ */
-      -webkit-tap-highlight-color: transparent;
-    }
-  }  
-}/*
+/*
   SPDX-FileCopyrightText: 2020 Max Mehl <mail@mehl.mx>
   SPDX-License-Identifier: MIT
 */
