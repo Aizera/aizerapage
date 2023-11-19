@@ -7,7 +7,7 @@ showScrollToTop: true
 
 ---
 
-{{< figure src="/uploads/kate-leagueavatar2.jpeg" height="300" >}}
+{{< figure src="/uploads/kate-leagueavatar2.jpeg" height="100" >}}
 
 
 
@@ -18,9 +18,7 @@ I'm Kate, your resident ADHD artist. I've left social media for the most part, b
 
 If you would like some art from me, [message me on ko-fi](https://ko-fi.com/aizera) for commissions (and be sure to read the [ToS](https://aizera.art/#commissions) on my website!!)
 
-I hope you enjoy reading through my progress on digital painting, reading, gaming and guides. If you like my work, definitely let me know! 
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0f8d96', 'L3L3226RT');kofiwidget2.draw();</script> 
+I hope you enjoy reading through my progress on digital painting, reading, gaming and guides. Thanks for visiting!
 
 ## FAQ
 

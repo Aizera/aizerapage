@@ -59,7 +59,7 @@
     <!-- FULL IMAGE; HIDDEN -->
     {{- if not (eq (.Get "lightbox") "none") -}}
       <div class="snap-lightbox" id="{{ $id }}">
-        <a href="#_" class="snap-lightbox-close"></a>
+        <!-- <a href="#_" class="snap-lightbox-close"></a> -->
         <div class="snap-lightbox-inner">
           <img src="{{ .Get "src" }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }} />
           <p>
