@@ -164,6 +164,7 @@ a.snap-lightbox-close {
   white-space: nowrap;
   top: 0;
   left: 0;
+  opacity: 0;
 }
 
 
@@ -198,13 +199,14 @@ a.snap-lightbox-close {
 /* prev/next arrows & close button */
 
 .snap-lightbox-close-button {
-  color: #f7a4a4;
+  color: #9e2a2a;
   position: fixed;
   z-index: 950;
   width: 5%;
   height: calc(5vw); /* ~5% width */
   right: 0;
   top: 0;
+  opacity: 0;
 }
 
 .snap-lightbox-x::after {
