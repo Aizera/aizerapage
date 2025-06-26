@@ -28,25 +28,50 @@ I hope you enjoy reading through my progress on digital painting, reading, gamin
 
 Summer break!! Doing some art, hanging out on Tito's [Core Keeper Stream](https://www.twitch.tv/tit0bandit0), and playing some steam games here and there. Currently working on Len's Island, Hello Kitty Island Adventure, and Death Stranding.
 
-#### Cats or dogs?
+#### What is your mother's madien name, credit card number, and last 4 SSN?
+
+Nice try chuyyyy
+
+#### Prefer cats or dogs?
 
 Cats
 
 #### Favorite food?
 
-Eggs, Sushi, Shumai dumplings
+Eggs, Noodles, Fried Chicken, Sushi, Shumai dumplings
 
 #### Favorite beverage?
 
 Coffee
 
+#### Someone from the past you'd like to see and maybe give a tour of the current world?
+
+I've always wanted to meet Carl Sagan and Robin Williams... but maybe it is selfish because they probably won't like to see what the world has become sadge
+
+#### Favorite Show?
+
+Arcane, yep I'm a league nerd
+
+#### Favorite Anime?
+
+5 centimeters per second 
+
 #### Favorite sport to watch?
 
 I usually don't watch sports but in a rare case I do love watching ice skating from time to time. Not sure about actually trying to skate though.
 
+#### Favorite sport to play?
+
+Not too into sports anymore but I love playing Ring Fit Adventure on switch, if that counts!!
+
 #### Places you want to travel to?
 
 Japan and Korea, also visiting frens in EU some time in the future :3
+
+#### TTRPGs you've tried and want to try in the future?
+
+Have tried: D&D, Pathfinder 2e, Dragonbane <br>
+Want to try: The One Ring, Daggerheart
 
 #### Favorite game?
 
@@ -83,4 +108,4 @@ My consistent favorites:
 
     My favorite story game, mainly because of the extential crisis I get even if I'm not actively playing it. Its world building is off the charts, and the OSTs are beyond amazing. 
 
-The following links direct to the official steam page; they are not affiliate links. I just genuinely enjoy these games.
+<sub>_The following links direct to the official steam page; they are not affiliate links. I just genuinely enjoy these games._</sub>
