@@ -3,3 +3,8 @@ languageCode = 'en-us'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = false
