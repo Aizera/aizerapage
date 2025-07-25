@@ -17,7 +17,7 @@ _(source: League of Legends custom avatar maker)_
 I'm Kate, your resident ADHD artist. I've left social media for the most part, but it's kind of nice to have a place to put down my thoughts without worrying about not having ownership of my content.
 
 If my work has helped you in some way feel free to send me a coffee ;\)
-<a href='https://ko-fi.com/L3L3226RT' target='_blank'><img height='44' style='border:0px;height:44px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/aizera/5' target='_blank'><img height='44' style='border:0px;height:44px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 I hope you enjoy reading through my progress on digital painting, reading, gaming and guides. Thanks for visiting!
 
