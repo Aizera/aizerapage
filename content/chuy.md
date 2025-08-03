@@ -9,10 +9,10 @@ showScrollToTop: true
 
 
 welcome to chuy's secret page
-{{< tiktok id="7531453334469840141"  usr="titobandito5">}}
+{{< tiktok id="7519873951569431821"  usr="titobandito5">}}
+{{< figure src="/uploads/mauricakedoodle.jpg" >}}
 
-
-{{< youtube wdecevxMS_k>}}
+{{< youtube GpNx1rnUgF8>}}
 
 {{< figure src="/uploads/buildmeme.png" >}}
 
