@@ -16,17 +16,14 @@ _(source: League of Legends custom avatar maker)_
 
 I'm Kate, your resident ADHD artist. I've left social media for the most part, but it's kind of nice to have a place to put down my thoughts without worrying about not having ownership of my content.
 
-If my work has helped you in some way feel free to send me a coffee ;\)
-<a href='https://ko-fi.com/aizera/5' target='_blank'><img height='44' style='border:0px;height:44px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 I hope you enjoy reading through my progress on digital painting, reading, gaming and guides. Thanks for visiting!
 
 ## Q&A 
-<sub>_(Last Updated: June 25 2025)_</sub>
+<sub>_(Last Updated: September 7 2025)_</sub>
 
 #### What have you been up to nowadays?
 
-Summer break!! Doing some art, hanging out on Tito's [Core Keeper Stream](https://www.twitch.tv/tit0bandit0), and playing some steam games here and there. Currently working on Len's Island, Hello Kitty Island Adventure, and Death Stranding.
+Summer went by fast. Work and League are keeping me busy. Started working on my Bluesky account since I'm posting some mini builds now. Currently working on Death Stranding, Terraria and Silksong.
 
 #### What is your mother's madien name, credit card number, and last 4 SSN?
 
@@ -79,7 +76,7 @@ Want to try: The One Ring, Daggerheart
 
 No way I could just pick one... so gona have to do a long answer!
 
-My recent favorites:
+Recent favorites:
 
 * [Len's Island](https://store.steampowered.com/app/1335830/Lens_Island/)
 
@@ -94,11 +91,11 @@ My recent favorites:
 
    Found the physical game while visiting frens in Canada! Steam version is lit as well.
 
-My consistent favorites:
+Consistent favorites:
 
 * [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper)
 
-    My favorite survivalcraft sandbox. The devs really removed every terrible mechanic I hate about every other survivalcraft or farming game. Absoluted GOATED
+    My favorite survivalcraft sandbox. The devs really removed every terrible mechanic I hate about every other survivalcraft or farming game. Absolutely GOATED
 
 * [Divinity Original Sin II](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/)
 
