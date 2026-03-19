@@ -4,6 +4,7 @@ showDate: false
 showAuthor: true
 showSummary: false
 showScrollToTop: true
+showPagination: false
 
 ---
 
